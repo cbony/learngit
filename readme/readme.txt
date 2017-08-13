@@ -8,5 +8,9 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 add merge
+<<<<<<< Updated upstream
 nothing is diffrent
 git xiufu
+=======
+nothing is diffrent
+>>>>>>> Stashed changes
